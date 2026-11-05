@@ -1,9 +1,13 @@
+![ITエンジニアのプロフィールバナー](assets/profile-banner.svg)
+
 # 話を聞く。しくみを組む。動くところまで。
 
 業務システムの改修・データ移行、Webサービス、iOS・Androidアプリを手がけるITエンジニアです。  
 要件の整理から設計、実装、検証、公開後の改善まで対応しています。
 
 **[ポートフォリオを見る](https://en-nagaojunichi.github.io/)** · **[開発について相談する](https://en-nagaojunichi.github.io/#contact)**
+
+![プロフィール表示数](https://komarev.com/ghpvc/?username=en-nagaojunichi&label=PROFILE+VIEWS&color=1f4e70&style=flat-square)
 
 ## 01 / 対応できること
 
