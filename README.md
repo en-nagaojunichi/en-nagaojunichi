@@ -31,10 +31,18 @@
 `PHP` `Laravel` `Vue` `MySQL` `Queue`  
 [開発事例](https://en-nagaojunichi.github.io/projects/mamead.html) · [公開サービス](https://mamead.mameoffice.com/)
 
+[![MameAdの実際の操作画面。クリックすると動画を再生します](assets/mamead-demo-poster.jpg)](https://en-nagaojunichi.github.io/assets/videos/mamead-demo.mp4)
+
+[▶ MameAdの実操作動画を見る](https://en-nagaojunichi.github.io/assets/videos/mamead-demo.mp4)
+
 ### iOS・Androidアプリ — 企画からストア公開まで
 
 Flutterで開発し、両ストアで公開しています。  
 [アプリ開発事例](https://en-nagaojunichi.github.io/projects/flutter.html)
+
+[![公開中のモバイルアプリ3本の実画面。クリックすると動画を再生します](assets/apps-demo-poster.jpg)](https://en-nagaojunichi.github.io/assets/videos/apps-demo.mp4)
+
+[▶ アプリ3本の実画面動画を見る](https://en-nagaojunichi.github.io/assets/videos/apps-demo.mp4)
 
 | アプリ | App Store | Google Play |
 | --- | --- | --- |
