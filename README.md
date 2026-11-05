@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=en-nagaojunichi&amp;label=PROFILE+VIEWS&amp;color=1f4e70&amp;style=flat-square" alt="プロフィール表示数" />
 </p>
 
-![ITエンジニアのプロフィールバナー](assets/profile-banner.svg)
+![ITエンジニアのプロフィールバナー](assets/profile-banner-v2.png)
 
 # 話を聞く。しくみを組む。動くところまで。
 
@@ -31,7 +31,7 @@
 `PHP` `Laravel` `Vue` `MySQL` `Queue`  
 [開発事例](https://en-nagaojunichi.github.io/projects/mamead.html) · [公開サービス](https://mamead.mameoffice.com/)
 
-[![MameAdの実際の操作画面。クリックすると動画を再生します](assets/mamead-demo-poster.jpg)](https://en-nagaojunichi.github.io/assets/videos/mamead-demo.mp4)
+[![MameAdの紹介画像。クリックすると実操作動画を再生します](assets/mamead-demo-poster-v2.png)](https://en-nagaojunichi.github.io/assets/videos/mamead-demo.mp4)
 
 [▶ MameAdの実操作動画を見る](https://en-nagaojunichi.github.io/assets/videos/mamead-demo.mp4)
 
@@ -40,7 +40,7 @@
 Flutterで開発し、両ストアで公開しています。  
 [アプリ開発事例](https://en-nagaojunichi.github.io/projects/flutter.html)
 
-[![公開中のモバイルアプリ3本の実画面。クリックすると動画を再生します](assets/apps-demo-poster.jpg)](https://en-nagaojunichi.github.io/assets/videos/apps-demo.mp4)
+[![公開中のモバイルアプリ3本の実画面。クリックすると動画を再生します](assets/apps-demo-poster-v2.png)](https://en-nagaojunichi.github.io/assets/videos/apps-demo.mp4)
 
 [▶ アプリ3本の実画面動画を見る](https://en-nagaojunichi.github.io/assets/videos/apps-demo.mp4)
 
