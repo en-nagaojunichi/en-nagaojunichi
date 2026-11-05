@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Build. Improve. Ship.</title>
+  <desc id="description">Web systems and mobile apps, from understanding the work to release.</desc>
+
+  <rect width="1200" height="300" fill="#10293b"/>
+  <path d="M0 1H1200M0 299H1200" stroke="#36576b" stroke-width="2"/>
+  <path d="M48 0V300M1152 0V300" stroke="#27485b" stroke-width="1"/>
+
+  <rect x="72" y="38" width="40" height="4" fill="#92c8d1"/>
+  <text x="126" y="46" fill="#aacbd2" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">SOFTWARE ENGINEERING</text>
+
+  <text x="68" y="137" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" letter-spacing="-2">BUILD. IMPROVE.</text>
+  <text x="68" y="228" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-3">SHIP<tspan fill="#92c8d1">.</tspan></text>
+  <text x="72" y="270" fill="#aacbd2" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="2.2">WEB SYSTEMS  /  MOBILE APPS</text>
+
+  <rect x="872" y="42" width="256" height="216" rx="13" fill="#19394b" stroke="#456c7d" stroke-width="1.5"/>
+  <path d="M905 79V222" stroke="#537e8b" stroke-width="2"/>
+  <circle cx="905" cy="83" r="8" fill="#92c8d1"/>
+  <circle cx="905" cy="150" r="8" fill="#92c8d1"/>
+  <circle cx="905" cy="217" r="8" fill="#92c8d1"/>
+  <text x="930" y="89" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.6">01  UNDERSTAND</text>
+  <text x="930" y="156" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.6">02  BUILD</text>
+  <text x="930" y="223" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.6">03  VERIFY</text>
+</svg>
