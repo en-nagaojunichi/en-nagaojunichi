@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=en-nagaojunichi&amp;label=PROFILE+VIEWS&amp;color=1f4e70&amp;style=flat-square" alt="プロフィール表示数" />
 </p>
 
-![ITエンジニアのプロフィールバナー](assets/profile-banner-v2.png)
+![ITエンジニアのプロフィールバナー](assets/profile-banner-v3.png)
 
 # 話を聞く。しくみを組む。動くところまで。
 
