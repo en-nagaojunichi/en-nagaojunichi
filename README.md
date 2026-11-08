@@ -25,6 +25,22 @@
 既存データと移行先の設計を照合して仕様を整理し、Laravelによる移行処理の実装と結果の検証を担当しました。別案件では、Laravel 6から12への機能移植、認証機能、既存不具合の修正に対応しました。顧客案件のため、システム名や画面は公開していません。  
 [担当範囲を見る](https://en-nagaojunichi.github.io/#works)
 
+### MameInOut — スマホとQRで使う入退出管理OSS
+
+入口のスマホで個人QRを読み取り、入室・退室の時刻と記録上の在室者を確認する、無料のセルフホスト型ソフトウェアです。学習塾・自習室・習い事教室、小規模な事業所などでの利用を想定しています。
+
+管理者のパスキー認証、受付端末の承認、履歴の訂正・CSV出力に対応。画面・API・DBを実装し、管理者と受付端末の権限分離、二重送信・同時操作への対応を設計しています。
+
+`Next.js` `React` `TypeScript` `Hono` `PostgreSQL` `Prisma` `Docker Compose`
+
+**[公開ソースコード・利用ガイド](https://github.com/mameoffice/mame-inout)** · [開発事例・操作動画](https://en-nagaojunichi.github.io/projects/mameinout.html)
+
+[![MameInOutの管理ホーム。記録上の在室者と最近の入退室を表示](assets/mameinout-admin-home.png)](https://en-nagaojunichi.github.io/projects/mameinout.html)
+
+[▶ 入室・退室から履歴確認までの操作デモを見る（約1分56秒・音声付き）](https://github.com/mameoffice/mame-inout/blob/main/docs/videos/overview.mp4)
+
+現在は開発中です。画面・動画には架空データを使用しています。導入・運用条件と動画の収録方法・クレジットは[リポジトリ](https://github.com/mameoffice/mame-inout#readme)に記載しています。
+
 ### MameAd — 店舗・事業者向けWebサービス
 
 事業紹介ページ、15秒PR動画、SNS画像、投稿文を作成できるサービスです。画面、DB、生成処理、通知、権限管理を設計・実装し、本番運用しています。  
@@ -60,10 +76,10 @@ Flutterで開発し、両ストアで公開しています。
 
 | 領域 | 技術 |
 | --- | --- |
-| Web・API | PHP、Laravel、TypeScript、Next.js、React、Vue |
+| Web・API | PHP、Laravel、TypeScript、Next.js、React、Vue、Hono |
 | アプリ | Flutter、Dart |
-| データ・運用 | MySQL、PostgreSQL、Docker、AWS、GitHub Actions |
-| テスト・品質 | PHPUnit、Pest、Larastan |
+| データ・運用 | MySQL、PostgreSQL、Prisma、Docker、AWS、GitHub Actions |
+| テスト・品質 | PHPUnit、Pest、Larastan、Vitest、Playwright |
 
 ## 04 / 仕事の進め方
 
